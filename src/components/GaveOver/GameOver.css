@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+.gameOver h1{
+    font-family: 'Press Start 2P', cursive;
+    color:#ecfa00;
+    font-size: 40px;
+}
+
+.scoreEnd {
+
+    margin-top: 50px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.scoreEnd img{
+    width: 200px;
+    margin: 0 auto;
+}
+
+.scoreEnd span{
+    color: #ecfa00;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.scoreEnd p{
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Orbitron', sans-serif;
+
+}

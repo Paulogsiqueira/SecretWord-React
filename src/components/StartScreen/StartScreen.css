@@ -1,0 +1,49 @@
+.start h1{
+    font-size: 3.5rem;
+}
+
+.start p{
+    margin-bottom: 2em;
+    color:#ecfa00;
+}
+
+.start{
+    width: 300px;
+    margin-top: 200px;
+}
+
+.start div{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    
+    width: 350px;
+}
+
+.start div h2{
+    font-size: 50px;
+    margin-bottom: -65px;
+}
+
+.start div h1{
+    font-size: 100px;
+    margin-bottom: 20px;
+  
+}
+
+.title-letter-R{
+    color: #0045a4;
+    background-color: #ffd801;
+    padding: 0px 7px;
+    position: absolute;
+    margin-left: -10px;
+    z-index: 1;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 1);
+    border-radius: 5px;
+}
+.title-letter-D{
+    margin-left: 62px;
+    z-index: 10;
+    position: absolute;
+}
